@@ -1,6 +1,6 @@
 ## Objetivo del proyecto
 En este proyecto se busca aprender el uso de los entornos virtuales con Python y su ejecución desde la terminal con Linux en Ubuntu.
-Se realizó un código corto con la finalidad de interioirzar los conceptos de los entornos virtuales (venv).
+Se realizó un código corto con la finalidad de interiorizar los conceptos de los entornos virtuales (venv).
 
 ## Fuente de los datos
 
